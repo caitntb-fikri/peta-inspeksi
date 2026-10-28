@@ -1,99 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>IUP NAWASENA.kml</name>
-	<Schema name="iup_nkri" id="iup_nkri">
-		<SimpleField type="float" name="objectid">
-		</SimpleField>
-		<SimpleField type="string" name="pulau">
-		</SimpleField>
-		<SimpleField type="string" name="pejabat">
-		</SimpleField>
-		<SimpleField type="string" name="id_prov">
-		</SimpleField>
-		<SimpleField type="string" name="nama_prov">
-		</SimpleField>
-		<SimpleField type="string" name="id_kab">
-		</SimpleField>
-		<SimpleField type="string" name="nama_kab">
-		</SimpleField>
-		<SimpleField type="string" name="jenis_izin">
-		</SimpleField>
-		<SimpleField type="string" name="badan_usah">
-		</SimpleField>
-		<SimpleField type="string" name="nama_usaha">
-		</SimpleField>
-		<SimpleField type="string" name="kode_wiup">
-		</SimpleField>
-		<SimpleField type="string" name="sk_iup">
-		</SimpleField>
-		<SimpleField type="string" name="tgl_berlak">
-		</SimpleField>
-		<SimpleField type="string" name="tgl_akhir">
-		</SimpleField>
-		<SimpleField type="string" name="kegiatan">
-		</SimpleField>
-		<SimpleField type="float" name="luas_sk">
-		</SimpleField>
-		<SimpleField type="string" name="komoditas">
-		</SimpleField>
-		<SimpleField type="string" name="kode_golon">
-		</SimpleField>
-		<SimpleField type="string" name="kode_jnsko">
-		</SimpleField>
-		<SimpleField type="string" name="cnc">
-		</SimpleField>
-		<SimpleField type="string" name="generasi">
-		</SimpleField>
-		<SimpleField type="string" name="kode_wil">
-		</SimpleField>
-		<SimpleField type="string" name="lokasi">
-		</SimpleField>
-	</Schema>
-	<Placemark id="iup_nkri.4048">
-		<Style>
-			<LineStyle>
-				<color>ff0000ff</color>
-			</LineStyle>
-			<PolyStyle>
-				<fill>0</fill>
-			</PolyStyle>
-		</Style>
-		<ExtendedData>
-			<SchemaData schemaUrl="#iup_nkri">
-				<SimpleData name="objectid">186604</SimpleData>
-				<SimpleData name="pulau">KEPULAUAN NUSA TENGGARA</SimpleData>
-				<SimpleData name="pejabat">GUBERNUR</SimpleData>
-				<SimpleData name="id_prov">52</SimpleData>
-				<SimpleData name="nama_prov">NUSA TENGGARA BARAT</SimpleData>
-				<SimpleData name="id_kab">04</SimpleData>
-				<SimpleData name="nama_kab">KABUPATEN SUMBAWA</SimpleData>
-				<SimpleData name="jenis_izin">WIUP</SimpleData>
-				<SimpleData name="badan_usah">CV</SimpleData>
-				<SimpleData name="nama_usaha">CV NAWASENA BAYANAKA</SimpleData>
-				<SimpleData name="kode_wiup">2752045472023002</SimpleData>
-				<SimpleData name="sk_iup">540/8/WIUP/DESDM/2023</SimpleData>
-				<SimpleData name="tgl_berlak">2023/01/17 07:00:00.000</SimpleData>
-				<SimpleData name="kegiatan">PENCADANGAN</SimpleData>
-				<SimpleData name="luas_sk">2.000000000000000</SimpleData>
-				<SimpleData name="komoditas">PASIR</SimpleData>
-				<SimpleData name="kode_golon">5</SimpleData>
-				<SimpleData name="kode_jnsko">47</SimpleData>
-				<SimpleData name="lokasi">DUSUN BUIN PANDAN, DESA KARANG DIMA KEC.LABUHAN BADAS</SimpleData>
-			</SchemaData>
-		</ExtendedData>
-		<MultiGeometry>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							117.381247222,-8.475325,0 117.381247222,-8.47516944400002,0 117.381355556,-8.47516944400002,0 117.381355556,-8.47503611100001,0 117.381497222,-8.47503611100001,0 117.381497222,-8.47516388899999,0 117.381663889,-8.47516388899999,0 117.381663889,-8.47530277800001,0 117.381863889,-8.47530277800001,0 117.381863889,-8.47539722200003,0 117.382033333,-8.47539722200003,0 117.382033333,-8.475524999999999,0 117.381944444,-8.475524999999999,0 117.381944444,-8.475577778,0 117.382375,-8.475577778,0 117.382375,-8.47564999999997,0 117.382244444,-8.47564999999997,0 117.382244444,-8.47579166700001,0 117.382136111,-8.47579166700001,0 117.382136111,-8.47592500000002,0 117.382038889,-8.47592500000002,0 117.382038889,-8.476038888999989,0 117.381966667,-8.476038888999989,0 117.381966667,-8.47610555599999,0 117.381869444,-8.47610555599999,0 117.381869444,-8.476216667000021,0 117.381713889,-8.476216667000021,0 117.381713889,-8.476391666999969,0 117.38155,-8.476391666999969,0 117.38155,-8.476594444,0 117.381469444,-8.476594444,0 117.381469444,-8.476516667,0 117.381366667,-8.476516667,0 117.381366667,-8.47641944399999,0 117.381138889,-8.47641944399999,0 117.381138889,-8.476299999999981,0 117.380877778,-8.476299999999981,0 117.380877778,-8.47616388900002,0 117.380580556,-8.47616388900002,0 117.380580556,-8.47606388899999,0 117.380313889,-8.47606388899999,0 117.380313889,-8.47578055600002,0 117.380380556,-8.47578055600002,0 117.380380556,-8.475672222000011,0 117.380480556,-8.475672222000011,0 117.380480556,-8.47558888899999,0 117.380683333,-8.47558888899999,0 117.380683333,-8.475380555999999,0 117.380813889,-8.475380555999999,0 117.380813889,-8.475325,0 117.381247222,-8.475325,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</MultiGeometry>
-		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1094"></atom:link>
+	<name>iup.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>iup</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						116.8471271970272,-8.762475481688366,0 116.8544789534061,-8.762552892896059,0 116.8545692383152,-8.753119596748965,0 116.8456321580274,-8.753119223654849,0 116.8471271970272,-8.762475481688366,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
 	</Placemark>
 </Document>
 </kml>
